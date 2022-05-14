@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>spring-security-modules</artifactId>
+    <artifactId>spring-security-modules-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-security-modules</name>
+    <name>spring-security-modules-2</name>
     <packaging>pom</packaging>
 
     <parent>
@@ -22,6 +22,7 @@
         <module>spring-security-acl</module>
         <module>spring-security-auth0</module>
         <module>spring-security-core</module>
+        <module>spring-security-core-2</module>
         <module>spring-security-ldap</module>
         <module>spring-security-legacy-oidc</module>
         <module>spring-security-oauth2-sso</module>
